@@ -1,0 +1,6 @@
+ubs\limitmanagement\controllers\ExceptionHandlerController.class
+ubs\limitmanagement\LimitManagerApplication.class
+ubs\limitmanagement\controllers\DataController.class
+ubs\limitmanagement\exceptions\RestException.class
+ubs\limitmanagement\services\DatabaseService.class
+ubs\limitmanagement\util\Ajax.class
